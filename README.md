@@ -12,7 +12,7 @@ An AI-powered assistant website that interacts with users, answers queries, and 
 
 ## Demo
 
-Check out the live demo: [AI Assistant Website Demo](https://yourwebsite.com) *(Replace with your deployed app link)*
+Check out the live demo: [Click Here👈](https://rv-ai-assitant.vercel.app) 
 
 ![image](https://github.com/user-attachments/assets/ecdb88bd-8a23-420d-9359-0ad0701c3426)
 
