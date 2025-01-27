@@ -1,7 +1,7 @@
 
 # AI Assistant Website
 
-An AI-powered assistant website that interacts with users, answers queries, and provides useful information in real-time. Built with HTML, CSS, JavaScript, and powered by advanced AI technologies......
+An AI-powered assistant website that interacts with users, answers queries, and provides useful information in real-time. Built with HTML, CSS, JavaScript, and powered by advanced AI technologies.....
 
 ## Features
 
